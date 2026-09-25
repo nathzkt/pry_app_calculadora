@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">pry_app_calculadora</string>
+    <string name="txtNum1">Ingrese el primer numero</string>
+    <string name="txtNum2">Ingrese el segundo numero</string>
+    <string name="btnSumar">Sumar</string>
+    <string name="btnRestar">Restar</string>
+    <string name="btnMultiplicar">Multiplicar</string>
+    <string name="btnDividir">Dividir</string>
+    <string name="txtResultado">Resultado</string>
+</resources>
